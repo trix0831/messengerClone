@@ -14,8 +14,6 @@
 
   - remember to create an user account before testing.
 
-# Please give me a PASS. I have done my best on it and I really need this PASS. 拜託拜託
-
 # Run the project
 
 1. Install dependencies
